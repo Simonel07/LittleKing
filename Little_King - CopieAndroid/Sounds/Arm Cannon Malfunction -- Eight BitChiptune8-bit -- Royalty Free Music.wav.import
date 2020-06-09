@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Arm Cannon Malfunction -- Eight BitChiptune8-bit -- Royalty Free Music.wav-1249aa8c10bb7e4b0beece04d596b83d.sample"
+
+[deps]
+
+source_file="res://Sounds/Arm Cannon Malfunction -- Eight BitChiptune8-bit -- Royalty Free Music.wav"
+dest_files=[ "res://.import/Arm Cannon Malfunction -- Eight BitChiptune8-bit -- Royalty Free Music.wav-1249aa8c10bb7e4b0beece04d596b83d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/FireballExplosion.wav-91b4d4c8a785590d9cf2783f10ee1678.sample"
+
+[deps]
+
+source_file="res://Sounds/FireballExplosion.wav"
+dest_files=[ "res://.import/FireballExplosion.wav-91b4d4c8a785590d9cf2783f10ee1678.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,36 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Sprites/ammo's/ammopower1.png" type="Texture" id=1]
+[ext_resource path="res://Sprites/ammo's/ammopower3.png" type="Texture" id=2]
+[ext_resource path="res://Sprites/ammo's/ammopower2.png" type="Texture" id=3]
+[ext_resource path="res://Scripts/FireballPowered.gd" type="Script" id=4]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 1 ), ExtResource( 3 ), ExtResource( 2 ) ],
+"loop": true,
+"name": "shoot",
+"speed": 12.0
+} ]
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 3.02942, 2.13258 )
+
+[node name="FireballPowered" type="Area2D"]
+script = ExtResource( 4 )
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+position = Vector2( -1.59195, -0.41855 )
+scale = Vector2( 0.380223, 0.301954 )
+frames = SubResource( 1 )
+animation = "shoot"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( -0.0649242, -0.332566 )
+shape = SubResource( 2 )
+
+[node name="VisibilityNotifier2D" type="VisibilityNotifier2D" parent="."]
+position = Vector2( -0.0204315, -0.455861 )
+scale = Vector2( 0.317911, 0.209187 )
+[connection signal="body_entered" from="." to="." method="_on_FireballPowered_body_entered"]
+[connection signal="screen_exited" from="VisibilityNotifier2D" to="." method="_on_VisibilityNotifier2D_screen_exited"]

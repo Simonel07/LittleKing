@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/All Time High Jump - 8 BitChiptune - Royalty Free Music.wav-c4378e3f8c2b6c69383c01519d3ab6e0.sample"
+
+[deps]
+
+source_file="res://Sounds/All Time High Jump - 8 BitChiptune - Royalty Free Music.wav"
+dest_files=[ "res://.import/All Time High Jump - 8 BitChiptune - Royalty Free Music.wav-c4378e3f8c2b6c69383c01519d3ab6e0.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

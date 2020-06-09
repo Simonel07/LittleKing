@@ -1,0 +1,24 @@
+C:\Users\Dell\Documents\Programe\Godot\Little King\.mono\temp\bin\Tools\Little King.dll
+C:\Users\Dell\Documents\Programe\Godot\Little King\.mono\temp\bin\Tools\Little King.pdb
+C:\Users\Dell\Documents\Programe\Godot\Little King\.mono\temp\obj\Tools\Little King.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Programe\Godot\Little King\.mono\temp\obj\Tools\Little King.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Programe\Godot\Little King\.mono\temp\obj\Tools\Little King.dll
+C:\Users\Dell\Documents\Programe\Godot\Little King\.mono\temp\obj\Tools\Little King.pdb
+C:\Users\Dell\Documents\Programe\Godot\Little_King.2\.mono\temp\bin\Tools\Little King.dll
+C:\Users\Dell\Documents\Programe\Godot\Little_King.2\.mono\temp\bin\Tools\Little King.pdb
+C:\Users\Dell\Documents\Programe\Godot\Little_King.2\.mono\temp\obj\Tools\Little King.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Programe\Godot\Little_King.2\.mono\temp\obj\Tools\Little King.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Programe\Godot\Little_King.2\.mono\temp\obj\Tools\Little King.dll
+C:\Users\Dell\Documents\Programe\Godot\Little_King.2\.mono\temp\obj\Tools\Little King.pdb
+C:\Users\Dell\Documents\Programe\Godot\Little_King\.mono\temp\bin\Tools\Little King.dll
+C:\Users\Dell\Documents\Programe\Godot\Little_King\.mono\temp\bin\Tools\Little King.pdb
+C:\Users\Dell\Documents\Programe\Godot\Little_King\.mono\temp\obj\Tools\Little King.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Programe\Godot\Little_King\.mono\temp\obj\Tools\Little King.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Programe\Godot\Little_King\.mono\temp\obj\Tools\Little King.dll
+C:\Users\Dell\Documents\Programe\Godot\Little_King\.mono\temp\obj\Tools\Little King.pdb
+C:\Users\Dell\Documents\Programe\Godot\Little_King - Copie\.mono\temp\bin\Tools\Little King.dll
+C:\Users\Dell\Documents\Programe\Godot\Little_King - Copie\.mono\temp\bin\Tools\Little King.pdb
+C:\Users\Dell\Documents\Programe\Godot\Little_King - Copie\.mono\temp\obj\Tools\Little King.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Programe\Godot\Little_King - Copie\.mono\temp\obj\Tools\Little King.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Programe\Godot\Little_King - Copie\.mono\temp\obj\Tools\Little King.dll
+C:\Users\Dell\Documents\Programe\Godot\Little_King - Copie\.mono\temp\obj\Tools\Little King.pdb
